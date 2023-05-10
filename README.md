@@ -1,4 +1,5 @@
 # Профильное задание
+[НОУТБУК С РЕШЕНИЕМ](https://github.com/dsashulya/recommender_test_task/blob/main/test_task.ipynb)
 
 [Полный датасет MovieLens](https://grouplens.org/datasets/movielens/latest/)
 
